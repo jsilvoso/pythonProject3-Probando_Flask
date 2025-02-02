@@ -1,0 +1,5 @@
+pip==24.0
+setuptools==68.0.0
+wheel
+flask
+gunicorn
