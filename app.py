@@ -7,7 +7,7 @@ def home():
     return render_template('index.html')
 
 @app.route('/chatbot')
-def home():
+def chatbot():
     return render_template('chatbot.html')
 
 @app.route('/about')
